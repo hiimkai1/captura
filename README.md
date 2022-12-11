@@ -1,6 +1,11 @@
 # captura
 An incredibly powerful Flask photo capture application that lets you share every wonderful moment.
 
+<img src="https://forthebadge.com/images/badges/made-with-javascript.svg" alt="badge">
+<img src="https://forthebadge.com/images/badges/made-with-markdown.svg" alt="badge">
+<img src="https://forthebadge.com/images/badges/open-source.svg" alt="badge">
+<img src="https://forthebadge.com/images/badges/made-with-python.svg" alt="badge">
+
 ## How to Install
 
 clone:
